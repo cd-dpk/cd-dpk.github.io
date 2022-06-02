@@ -1,0 +1,18 @@
+* Courses 
+  - Term 1 of Academic Year 2018-2019 (Dec 2018 to May 2019)
+      -  CSE 2103 Theory of Computation
+      -  GE 1111 Technology and Society
+      -  BLWS 2105 ICT in Education and Research
+  - Term 2 of Academic Year 2018-2019 (Jun 2019 to Dec 2019)
+      -  CSE 2201 Operating Systems and System Programming
+      -  CSE 2207 Database Management System
+  - Term 1 of Academic Year 2019-2020 (Jan 2020 to Aug 2021)
+      -  AG 1107 Computer Science and Information Technology
+      -  CSE 3105 Data Science and Analytics 
+      -  SE 3109 Design Pattern (with Falguni Roy)
+  - Term 2 of Academic Year 2019-2020 (Apr 2021 to Feb 2022)
+      -  SE 3203 Software Metrics
+      -  SE 3211 Software Design & Architecture (with Iftekhar Alam Efat) 
+  - Term 1 of Academic Year 2020-2021 (Mar 2022 to Present)
+      - CSE 1103 Discrete Mathematics
+      - AG 1107 Computer Science and Information Technology
