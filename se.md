@@ -2,6 +2,7 @@
 ## SE Conferences
 * [International Conference on Software Engineering (ICSE)](https://dblp.org/db/conf/icse/index.html)
 * [European Software Engineering Conference (ESEC)](https://dblp.org/db/conf/esec/index.html)
+* [International Conference on Automated Software Engineering](https://dblp.uni-trier.de/db/conf/kbse/index.html)
 * [IEEE International Conference on Software Maintenance (ICSM)](https://dblp.org/db/conf/icsm/index.html)
 * [Empirical Software Engineering and Measurement (ESEM)](https://dblp.org/db/conf/esem/index.html)
 * [Evaluation & Assessment in Software Engineering (EASE)](https://dblp.org/db/conf/ease/index.html)
@@ -12,6 +13,7 @@
 * [Software Engineering and Knowledge Engineering (SEKE)](https://dblp.org/db/conf/seke/index.html)
 ## SE Journals		
 * [A Empirical Software Engineering](https://dblp.uni-trier.de/db/journals/ese/index.html)
+* [Automated Software Engineering](https://dblp.uni-trier.de/db/journals/ase/index.html)
 * [A Journal of Systems and Software](https://dblp.uni-trier.de/db/journals/jss/index.html)
 * [B Journal of Software: Evolution and Process](https://dblp.uni-trier.de/db/journals/smr/index.html) 
 * [B Journal of Software](https://dblp.uni-trier.de/db/journals/jsw/index.html)
