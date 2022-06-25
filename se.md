@@ -2,7 +2,7 @@
 ## SE Conferences
 * [International Conference on Software Engineering (ICSE)](https://dblp.org/search?q=stream%3Aconf%2Ficse%3A)
 * [European Software Engineering Conference (ESEC)](https://dblp.org/search?q=stream%3Aconf%2Fesec%3A)
-* [International Conference on Automated Software Engineering](https://dblp.uni-trier.de/search?q=stream%3Aconf%2Fkbse%3A)
+* [International Conference on Automated Software Engineering (ASE)](https://dblp.uni-trier.de/search?q=stream%3Aconf%2Fkbse%3A)
 * [IEEE International Conference on Software Maintenance (ICSM)](https://dblp.org/search?q=stream%3Aconf%2Ficsm%3A)
 * [Empirical Software Engineering and Measurement (ESEM)](https://dblp.org/search?q=stream%3Aconf%2Fesem%3A)
 * [Evaluation & Assessment in Software Engineering (EASE)](https://dblp.org/search?q=stream%3Aconf%2Fease%3A)
