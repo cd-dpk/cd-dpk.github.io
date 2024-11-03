@@ -44,3 +44,9 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Projects
+========
+
+
+[Download CV](http://cd-dpk.github.io/files/dpk_cv.pdf)
