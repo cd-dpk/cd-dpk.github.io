@@ -6,7 +6,7 @@ permalink: /publication/neighbor-score-covid19-20.md
 excerpt: ' A metric about COVID-19'
 date: 2020-10-25
 venue: 'International Journal of Advanced Research in Computer Science'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+slidesurl: 'http://cd-dpk.github.io/files/ijarcs-6649.pdf'
 paperurl: 'http://cd-dpk.github.io/files/ijarcs-6649.pdf'
 citation: 'Das, Dipok Chandra, Dipanita Saha, and Tahrim Kabir. "NEIGHBOR SCORE: IMPACT OF NEIGHBORING REGIONS IN COVID-19 OUTBREAK." International Journal of Advanced Research in Computer Science 11.5 (2020).'
 ---
