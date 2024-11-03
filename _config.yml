@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "he/his"  
   bio              : "Assistant Professor at Noakhali Science and Technology University"
   location         : "Noakhali, Bangladesh"
-  employer         : "Noakhali Science and Technology University"
+  # employer         : # "Noakhali Science and Technology University"
   uri              : "https://nstu.edu.bd/"
   email            : "dipok.iit@nstu.edu.bd" 
 
