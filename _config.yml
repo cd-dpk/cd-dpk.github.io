@@ -21,7 +21,7 @@ repository               : "cd-dpk.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile-dpk.png"
   name             : "Dipok Chandra Das"
   pronouns         : # example: "he/his"  
   bio              : "Assistant Professor at NSTU"
