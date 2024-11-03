@@ -3,7 +3,7 @@ title: "ANALYSIS OF COVID-19 COVERAGE IN BANGLADESH NEWS MEDIA USING TOPIC MODEL
 collection: publications
 category: manuscripts
 permalink: /publication/covid19-coverage-newspaper-20
-excerpt: 'This paper analyzes the coverage of COVID-19 in Bangladesh's newspaper'
+excerpt: 'This paper analyzes the coverage of COVID-19 in Bangladesh newspaper'
 date: 2020-12-01
 venue: 'International Journal of Engineering Applied Sciences and Technology'
 slidesurl: 'https://ijeast.com/papers/27-34,Tesma507,IJEAST.pdf'
