@@ -49,4 +49,4 @@ Projects
 ========
 
 
-[Download CV](http://cd-dpk.github.io/files/dpk_cv.pdf)
+[Download CV](http://cd-dpk.github.io/files/dpk_cv_nov24.pdf)
