@@ -28,6 +28,10 @@ Work experience
   * Institute of Information Technology, Noakhali Science and Technology University
   * Duties includes: teaching, monitoring and advising students
 
+* May 2017 — May 2018 : Instructor, Short Course Training Program 
+  * Institute of Information Technology, University of Dhaka Dhaka, Bangladesh
+  * Courses Conducted: Office Applications for Smart Office, Web Design using HTML/CSS/Javascript, and Web Programming using PHP/MySQL
+    
 * Jan. 2016 - Jun. 2016: Intern
   * Mobile App, MCC Limited
   * Duties included: developing and testing
