@@ -12,11 +12,11 @@ redirect_from:
 Education
 ======
 * M.S. in Software Engineering, University of Dhaka, 2018
-  * Thesis:
-  * Supervisor:
+  * Thesis: Automated Identification of Security and Performance Bug Reports
+  * Supervisor: Md Rayhanur Rahman
 * B.S. in Software Engineering, University of Dhaka, 2016
-  * Final Year Project:
-  * Supervisor:
+  * Final Year Project: An information retrieval approach to concept location in source code
+  * Supervisor: Md Rayhanur Rahman
 
 Work experience
 ===============
