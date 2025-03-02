@@ -14,9 +14,11 @@ Education
 * M.S. in Software Engineering, University of Dhaka, 2018
   * Thesis: Automated Identification of Security and Performance Bug Reports
   * Supervisor: Md Rayhanur Rahman
+  * CGPA: 3.77 out of 4.00
 * B.S. in Software Engineering, University of Dhaka, 2016
   * Final Year Project: An information retrieval approach to concept location in source code
   * Supervisor: Md Rayhanur Rahman
+  * CGPA: 3.90 out of 4.00
 
 Work experience
 ===============
